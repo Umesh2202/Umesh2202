@@ -2,30 +2,32 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-[![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umesh2202&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<span align="center">
+  
+[![Umesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umesh2202&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+</span>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh2202" alt="umesh2202" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umesh2202" alt="umesh2202" /></a>
+</p>
 
-- 🌱 I’m currently learning **React,Javascript,NodeJS**
+<h2 align="center">About me</h2>
+<p style="text-align: center;">
+  
+ 🧠 I’m currently learning **React,Javascript,NodeJS**
+  
+ 🤝 Looking to collaborate on **Frontend websites** 
+  
+ 📧 My mail **umesh2002shir@gmail.com**
+ </p>
 
-- 👯 I’m looking to collaborate on **Frontend websites**
 
-- 💬 Ask me about **C++,Javascript**
-
-- 📫 How to reach me **umesh2002shir@gmail.com**
-
-- ⚡ Fun fact **I am funny 😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umeshshirsat18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeshshirsat18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umesh shirsat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh shirsat" height="30" width="40" /></a>
-<a href="https://instagram.com/umesh_shirsat.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umesh_shirsat.2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/umesh2002shir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umesh2002shir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umesh2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umesh2202" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/umesh2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="umesh2202" height="30" width="40" /></a>
+<h2 align="center">Connect with me</h2>
+<p align="center">
+<a href="https://twitter.com/umeshshirsat18" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href="https://linkedin.com/in/umesh shirsat" target="blank"><img src="https://img.icons8.com/color/48/null/linkedin.png"/></a>
 </p>
 
 <h2 align="center">Languages and Tools</h2>
