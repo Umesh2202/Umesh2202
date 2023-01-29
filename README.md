@@ -31,11 +31,17 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-  <img src="https://img.icons8.com/plasticine/48/null/react.png"/>
   <img src="https://img.icons8.com/doodle/48/null/svetle.png"/>
+  <img src="https://img.icons8.com/plasticine/48/null/react.png"/>
   <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/css3.png"/>
+  <img src="https://img.icons8.com/color/48/null/console.png"/>
+  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/null/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umesh2202&show_icons=true&locale=en&layout=compact" alt="umesh2202" /></p>
