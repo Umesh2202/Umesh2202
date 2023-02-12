@@ -16,7 +16,7 @@
 <h2 align="center">About me</h2>
 <p style="text-align: center;">
   
- 🧠 I’m currently learning **React,Javascript,NodeJS**
+ 🧠 I’m currently learning **Svelte, Typescript**
   
  🤝 Looking to collaborate on **Frontend websites** 
   
